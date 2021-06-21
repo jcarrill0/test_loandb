@@ -8,7 +8,7 @@
             "firstName": "Ernest",
             "lastName": "Schuppe",
             "street": "Ratke Port",
-            "zipCode": "17026-3154",
+            "zipCode": "17026-3154"
         },
         {
             "id": 2,
@@ -18,7 +18,7 @@
             "firstName": "Janis",
             "lastName": "Vandervort",
             "street": "Dickinson dataFields",
-            "zipCode": "43767",
+            "zipCode": "43767"
         },
         {
             "id": 3,
@@ -28,7 +28,7 @@
             "firstName": "Makenzie",
             "lastName": "Bode",
             "street": "Legros Divide",
-            "zipCode": "54812",
+            "zipCode": "54812"
         }
     ],
     "loans": [
