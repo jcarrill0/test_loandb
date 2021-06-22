@@ -103,7 +103,17 @@
         {}
     ],
     "references":[
-        {}
+        {
+            "id": 1,
+            "codigo": "00024",
+            "clienteId": 3,
+            "firstName": "Juana",
+            "lastName": "Vargas",
+            "typeReference": "personal",
+            "phoneFirst": "72986272",
+            "phoneTwo": "70564438",
+            "email": "josecarrillo8@gmail.com"
+        }
     ],
     "users": [
         {}
